@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_RwOvILhIEeiD9c-18QVniA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_RwOvIbhIEeiD9c-18QVniA" comment="" name="tgt_db_uid" prompt="tgt_db_uid?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvIrhIEeiD9c-18QVniA" comment="" name="tgt_db_pwd" prompt="tgt_db_pwd?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvI7hIEeiD9c-18QVniA" comment="" name="tgt_db_host" prompt="tgt_db_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvJLhIEeiD9c-18QVniA" comment="" name="tgt_db_port" prompt="tgt_db_port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvJbhIEeiD9c-18QVniA" comment="" name="tgt_db_database" prompt="tgt_db_database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvJrhIEeiD9c-18QVniA" comment="" name="empfileloc" prompt="empfileloc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvJ7hIEeiD9c-18QVniA" comment="" name="mobnumfileloc" prompt="mobnumfileloc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_RwOvKLhIEeiD9c-18QVniA" comment="" name="deptfilter" prompt="deptfilter?" promptNeeded="false" type="id_Integer" value=""/>
+</talendfile:ContextType>
