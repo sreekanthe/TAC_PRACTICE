@@ -1286,4 +1286,5 @@
     <migrationTask xmi:id="_0HIjn7hHEeiD9c-18QVniA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_yQgY4rhHEeiD9c-18QVniA" login="sreekanth@gmail.com" firstName="sreekanth" lastName="e" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_X_3vULiXEeie5O4Z-YJvAQ" login="Trigger-Runner" type="DI"/>
 </xmi:XMI>
