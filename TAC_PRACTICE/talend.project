@@ -336,7 +336,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_VGhVgLhIEeiD9c-18QVniA">
       <baseItem xmi:id="_VGhVgbhIEeiD9c-18QVniA" id="_5rip8K_qEeiRsczVfc84lg" version="0.1" type="job"/>
-      <relatedItems xmi:id="_VGhVgrhIEeiD9c-18QVniA" id="_Dw4iQK_rEeiRsczVfc84lg" version="Latest" type="property"/>
       <relatedItems xmi:id="_VGhVg7hIEeiD9c-18QVniA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_VGhVhLhIEeiD9c-18QVniA" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_VGhVhbhIEeiD9c-18QVniA" id="TalendString" version="Latest" type="routine"/>
