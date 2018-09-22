@@ -503,6 +503,8 @@
       <relatedItems xmi:id="_C4TB-b4kEeiov51dQNd1qg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_C4TB-r4kEeiov51dQNd1qg" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_C4TB-74kEeiov51dQNd1qg" id="_WVLRwJ6xEeiVQ5_KLW9PFA - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_JowSAL44Eeiov51dQNd1qg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_JowSAb44Eeiov51dQNd1qg" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_DBL4ML4kEeiov51dQNd1qg">
       <baseItem xmi:id="_DBL4Mb4kEeiov51dQNd1qg" id="_FO3OUKzZEeiL05VQBYM4eA" version="0.1" type="job"/>
