@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_5_QyoDgGEeiT4v3K43b4Ug" name="hdy" dataPackage="_5_QyoTgGEeiT4v3K43b4Ug" Server="Localhost 127.0.0.1" FilePath="C:/Users/vinit/OneDrive/Desktop/omina.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;|&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Custom ANSI"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_5_QyoTgGEeiT4v3K43b4Ug" name="default" dataManager="_5_QyoDgGEeiT4v3K43b4Ug">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5_QyojgGEeiT4v3K43b4Ug" id="_Xr-voDgGEeiT4v3K43b4Ug" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5_QyozgGEeiT4v3K43b4Ug" label="CUSTOMER_REFERENCE" length="7" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5_QypDgGEeiT4v3K43b4Ug" label="ATTRIBUTE_INDEX" length="5" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5_QypTgGEeiT4v3K43b4Ug" label="ATTRIBUTE_TYPE" length="6" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5_QypjgGEeiT4v3K43b4Ug" label="VALUE" length="6" talendType="id_String" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

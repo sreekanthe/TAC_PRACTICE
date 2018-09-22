@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Ja8HMCRjEeiFOr0PEKMwWA" name="@_file" dataPackage="_JbFRICRjEeiFOr0PEKMwWA" Server="Localhost 127.0.0.1" FilePath="C:/Users/user/Desktop/mail_id.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_JbFRICRjEeiFOr0PEKMwWA" name="default" dataManager="_Ja8HMCRjEeiFOr0PEKMwWA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_JbFRISRjEeiFOr0PEKMwWA" id="_90xVUCRiEeiFOr0PEKMwWA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JbFRIiRjEeiFOr0PEKMwWA" label="mail_id" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

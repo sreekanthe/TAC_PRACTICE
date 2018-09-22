@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_AyVyUSH1Eeia4_JeORF2Gg" name="noble_country" dataPackage="_AyVyUiH1Eeia4_JeORF2Gg" Server="Localhost 127.0.0.1" FilePath="E:/project/List of Contracts Global-V12.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="5" FirstLineCaption="true" SheetName="Sheet2" firstColumn="1" lastColumn="2" thousandSeparator="','" decimalSeparator="'.'" sheetList="Sheet2:w&#xA;" generationMode="EVENT_MODE">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_AyVyUiH1Eeia4_JeORF2Gg" name="default" dataManager="_AyVyUSH1Eeia4_JeORF2Gg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_AyVyUyH1Eeia4_JeORF2Gg" id="_q9oI0CH0Eeia4_JeORF2Gg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AyVyVCH1Eeia4_JeORF2Gg" label="COUNTRY" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_AyVyVSH1Eeia4_JeORF2Gg" label="REGION" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

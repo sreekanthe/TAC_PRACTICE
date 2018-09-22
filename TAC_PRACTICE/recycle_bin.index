@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2018-09-22T10:30:10.351+0530">
+  <deletedItems id="_jQdQ0B4aEei7HaH5rhJGtQ" path="" type="CONTEXT"/>
+  <deletedItems id="_hbC-cB4GEei7HaH5rhJGtQ" path="" type="CONTEXT"/>
+  <deletedItems id="_4cJs4BdTEeiuz6p8yZO5PA" path="" type="PROCESS"/>
+  <deletedItems id="_GUw6cB1SEeiJ2bQ06Ehqxw" path="job_23022018/Noble_agri_project" type="PROCESS"/>
+  <deletedItems id="_luCfoB3wEeidUYd-dc9N7g" path="job_23022018/Noble_agri_project/reusable_job" type="PROCESS"/>
+</recyclebin:RecycleBin>
