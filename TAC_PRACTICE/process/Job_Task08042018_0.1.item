@@ -30,6 +30,7 @@
     <elementParameter field="CHECK" name="IMPLICITCONTEXT_USE_PROJECT_SETTINGS" value="false" show="false"/>
     <elementParameter field="CHECK" name="STATANDLOG_USE_PROJECT_SETTINGS" value="false" show="false"/>
     <elementParameter field="CHECK" name="MULTI_THREAD_EXECATION" value="false"/>
+    <elementParameter field="TEXT" name="PARALLELIZE_UNIT_SIZE" value="25000"/>
     <elementParameter field="CHECK" name="IMPLICIT_TCONTEXTLOAD" value="true"/>
     <elementParameter field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" value="true"/>
     <elementParameter field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" value="false"/>
@@ -112,10 +113,11 @@
     <routinesParameter id="_wlcr0BdSEeiuz6p8yZO5PA" name="TalendDate"/>
     <routinesParameter id="_wl27gBdSEeiuz6p8yZO5PA" name="TalendStringUtil"/>
     <routinesParameter id="_wluYoBdSEeiuz6p8yZO5PA" name="TalendString"/>
+    <routinesParameter id="_yukN4LhHEeiD9c-18QVniA" name="SQLike"/>
   </parameters>
   <node componentName="tFileList" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFileList_1" show="false"/>
-    <elementParameter field="DIRECTORY" name="DIRECTORY" value="context.INPUT_FILE_LOC"/>
+    <elementParameter field="DIRECTORY" name="DIRECTORY" value="&quot;E:/files for practice/12AM/filelist&quot;"/>
     <elementParameter field="CLOSED_LIST" name="LIST_MODE" value="FILES"/>
     <elementParameter field="CHECK" name="INCLUDSUBDIR" value="false"/>
     <elementParameter field="CLOSED_LIST" name="CASE_SENSITIVE" value="YES"/>
