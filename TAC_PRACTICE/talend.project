@@ -493,7 +493,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_C4TB8L4kEeiov51dQNd1qg">
       <baseItem xmi:id="_C4TB8b4kEeiov51dQNd1qg" id="_uzZdoJ-BEeiJZIzeonhrmg" version="0.1" type="job"/>
-      <relatedItems xmi:id="_C4TB8r4kEeiov51dQNd1qg" id="_WVLRwJ6xEeiVQ5_KLW9PFA" version="Latest" type="property"/>
       <relatedItems xmi:id="_C4TB874kEeiov51dQNd1qg" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_C4TB9L4kEeiov51dQNd1qg" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_C4TB9b4kEeiov51dQNd1qg" id="TalendString" version="Latest" type="routine"/>
