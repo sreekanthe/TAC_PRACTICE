@@ -1467,6 +1467,7 @@
       <relatedItems xmi:id="_XuLr5r4kEeiov51dQNd1qg" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XuLr574kEeiov51dQNd1qg" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XuLr6L4kEeiov51dQNd1qg" id="_wjzA8BhNEei5GaEn2Y4vJg - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_8J9AMMDMEeiW99TXM4VOMw" id="SQLike" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_XuLr6b4kEeiov51dQNd1qg">
       <baseItem xmi:id="_XuLr6r4kEeiov51dQNd1qg" id="_6TUXYB45EeiBsOvPUu02Eg" version="0.1" type="job"/>
