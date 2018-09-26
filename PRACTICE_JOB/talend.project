@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_AZwesMFgEeiqVIGx920PRA" label="Practice_job" description="Practice_job" language="java" technicalLabel="PRACTICE_JOB" creationDate="2018-09-26T12:58:06.268+0530" author="_AZwescFgEeiqVIGx920PRA" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sreekanthe/TAC_PRACTICE.git&quot;,&quot;login&quot;:&quot;enagandula.sreekanth.1992@gmail.com&quot;,&quot;passwd&quot;:&quot;TSbJHeD/LglraRVZ6+CeSQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_AZwescFgEeiqVIGx920PRA" login="srikanth@gmail.com" firstName="srikanth" lastName="sai" type="DI" additionnalData="{}"/>
+</xmi:XMI>
